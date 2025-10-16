@@ -1,0 +1,38 @@
+# venvs
+.venv/
+venv/
+.env/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.dist-info/
+build/
+dist/
+
+# notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# misc
+.DS_Store
+
+
+.venv/
+uv.lock
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

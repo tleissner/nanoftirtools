@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "nanoftirtools: AFM & NEASPEC utilities"
+version: "0.1.0"
+type: software
+authors:
+  - family-names: "Leissner"
+    given-names: "Till"
+    affiliation: "SDU (University of Southern Denmark)"
+    email: "till@mci.sdu.dk"
+license: "GPL-3.0-or-later"
+date-released: "2025-10-16"
+keywords:
+  - AFM
+  - nano-FTIR
+  - spectroscopy
+  - NEASPEC
+  - plotting
+  - peak-detection
+repository-code: "https://example.com/your/repository"  # replace with real repo URL
